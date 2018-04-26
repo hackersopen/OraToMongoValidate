@@ -1,5 +1,5 @@
 INSERT INTO resourceFunctionSpecification (rfsid, href) VALUES (1,'a');
-INSERT INTO resourceFunctionLocation (rflid, href) VALUES (1,'a');
+INSERT INTO resourceFunctionLocation (rflid, href) VALUES (1,'a'); 
 INSERT INTO resourceFunction (rfid, automodification, description, href, name, priority, version, rflid) VALUES (1,'a','a','a','a',1,'a',1);
 INSERT INTO scale (sid, href, scaleStatus, type) VALUES (1,'a','a','a');
 INSERT INTO scheduleRef (srid, href, rfid) VALUES (1,'a',1);

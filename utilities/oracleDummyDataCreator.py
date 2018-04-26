@@ -1,5 +1,6 @@
 import cx_Oracle
 
+
 def next_string(column):
 	column_string = ""
 	column_number = column
